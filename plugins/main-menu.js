@@ -63,8 +63,8 @@ let str = `
 ┆type /list to
 ┆to see all cmd
 ┗─────────────────⬣`
-    conn.sendFile(m.chat, pp, 'perfil.jpg', str, m, false, { mentions: [who] })
-    m.react(done)
+                image: {
+                    url: `https://i.ibb.co/S6x6c0g/20230609-210308.jpg`,
 
 }
 handler.help = ['main']
