@@ -218,7 +218,7 @@ let m2 = `
 ▢ =>
 ▢ $
 └───────────  
-
+                image: {   url: `https://i.ibb.co/S6x6c0g/20230609-210308.jpg`,
 Bot has more than 300 commands and i am lazy to write all
 `
 //const pp = await (await fetch('https://i.ibb.co/qMG1JPY/fg.jpg')).buffer()
